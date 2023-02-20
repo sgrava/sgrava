@@ -13,11 +13,10 @@ Scientific software dev.
 
 **Used Programming Languages**  
 <br>
-<img><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></img>
-<img><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></img>
-<img><img height="45" src="./Julia_Programming_Language_Logo.svg"></img>
-<img><img height="45" src="ISO_C++_Logo.svg.png"></img>
-
+<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"/> 
+<img height="45" src="./Julia_Programming_Language_Logo.svg" />
+<img height="45" src="ISO_C++_Logo.svg.png" />
 <br>
 <br>
 
