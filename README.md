@@ -15,7 +15,8 @@ Scientific software dev.
 <br>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-<code><img height="45" src="https://user-images.githubusercontent.com/42062939/220165222-3c3751f8-6c62-4a4c-82d0-a8a21b233705.svg"></code>
+<code><img height="45" src="./Julia_Programming_Language_Logo.svg"></code>
+<code><img height="45" src="ISO_C++_Logo.svg.png"></code>
 
 <br>
 <br>
