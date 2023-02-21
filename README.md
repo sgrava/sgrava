@@ -1,6 +1,6 @@
 ### Hi there, I'm sgrava <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Scientific software dev.
+Scientific software developer.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stefano-grava/)
 
