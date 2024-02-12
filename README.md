@@ -5,8 +5,6 @@ Scientific software developer.
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stefano-grava/)
 
 🎓 PhD in quantum physics
-
-🌱 I’m currently learning AI/Machine learning
 <br>
 <br>
 
