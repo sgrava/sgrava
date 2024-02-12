@@ -15,7 +15,6 @@ Scientific software developer.
 <img border="1" height="45" src="./Julia_Programming_Language_Logo.svg"/>
 <img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img height="45" src="ISO_C++_Logo.svg.png"/>
-<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"/> 
 <br>
 <br>
 
